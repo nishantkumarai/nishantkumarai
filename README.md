@@ -1,6 +1,8 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/a/AVvXsEgRuZ8WQ7hvEZbuRJpFxG8x2T6aaRkYwt7nm3KrphtZes2A1OaWtilK52nJZMwUGv8Ea2GtjOVt_zoOH-PAvsS4o1UPd2gimGJszNpMXgqewrZPTPIn43qnTX7co5Km3KbrSBc7OVMHqn8HWHfZDdxxa5jCwh3jiG9M8UQnktqbcyoEqPj5V8hNfV9LjQ=w540-h214)]()
+[![MasterHead](https://blogger.googleusercontent.com/img/a/AVvXsEggydXL8QaymyTNepmedSjYv8y5vaTfWiW3STvKlOpveeo4V4ooYv7sJiWTHqK_UFJfklSlQH3YylBuiudRjKoa7gUupeEA7bFkiV-6FAKzVdZXMwNT9BMozy9sZaFKs1M7DqPhM1d-akUIC9bQlapq0n9vSxPbbj9vNd8JIaJhvPwyUmsELjENabR8cQ)]()
 <h1 align="center">Hi 👋, I'm Nishant Kumar Rai</h1>
 <h3 align="center">Computer Science and Design Student <br> Fascinate about Blockchain and Game Development </h3>
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
 
 
 - 🌱 I’m currently learning **solidity, Blockchain**
