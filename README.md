@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **solidity, Blockchain**
 
-- 💬 Ask me about **gh**
+- 💬 Ask me about **...**
 
-- 📫 How to reach me **ghjk**
+- 📫 How to reach me **...**
 
 - 👨‍💻 All of my projects are available at [portfolio](working)
 
