@@ -1,13 +1,13 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/a/AVvXsEggydXL8QaymyTNepmedSjYv8y5vaTfWiW3STvKlOpveeo4V4ooYv7sJiWTHqK_UFJfklSlQH3YylBuiudRjKoa7gUupeEA7bFkiV-6FAKzVdZXMwNT9BMozy9sZaFKs1M7DqPhM1d-akUIC9bQlapq0n9vSxPbbj9vNd8JIaJhvPwyUmsELjENabR8cQ)]()
 <h1 align="center">Hi 👋, I'm Nishant Kumar Rai</h1>
-<h3 align="center">Computer Science and Design Student <br> Fascinate about Blockchain </h3>
+<h3 align="center">XR Developer & Creator <br> Fascinate about Spatial computing </h3>
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
 
-- 🌱 I’m currently learning **solidity, Blockchain**
+- 🌱 I’m currently learning **Mixed Reality**
 
-- 💬 Ask me about **Blockchain & Design**
+- 💬 Ask me about **AR/VR/MR**
 
 - 👨‍💻 All of my projects are available at [nishantkumarai](working)
 
